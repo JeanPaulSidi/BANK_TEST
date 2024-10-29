@@ -1,0 +1,14 @@
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\bin\Debug\net6.0\BANK_TEST.exe
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\bin\Debug\net6.0\BANK_TEST.deps.json
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\bin\Debug\net6.0\BANK_TEST.runtimeconfig.json
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\bin\Debug\net6.0\BANK_TEST.dll
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\bin\Debug\net6.0\BANK_TEST.pdb
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.AssemblyInfoInputs.cache
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.AssemblyInfo.cs
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.csproj.CoreCompileInputs.cache
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.dll
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\refint\BANK_TEST.dll
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.pdb
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\BANK_TEST.genruntimeconfig.cache
+C:\Users\pauls\source\repos\BANK_TEST\BANK_TEST\obj\Debug\net6.0\ref\BANK_TEST.dll
